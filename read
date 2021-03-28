@@ -9,8 +9,9 @@
       "title": "Meika-san and Someone you Like",
       "volume": "4",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/l60NABo/"
+        "ultralight": "/proxy/api/imgur/chapter/l60NABo/"
       },
       "last_updated": "1616368746"
-    },
+    
   }
+}
