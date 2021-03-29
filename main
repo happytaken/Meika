@@ -6,12 +6,164 @@
   "cover": "https://i.imgur.com/xF7Y4Pd.jpg",
   "chapters": {
     "01": {
-      "title": "Meika-san and Someone you Like",
+      "title": "Meika-san and Omurice",
       "volume": "1",
       "groups": {
-        "ultralight": "/proxy/api/imgur/chapter/l60NABo/"
+        "kurokurori": "/proxy/api/imgur/chapter/okDV1a3/"
         },
       "last_updated": "1616911822"
-  }
+  },
+   "02": {
+      "title": "Meika-san and Dinner",
+      "volume": "1",
+      "groups": {
+        "kurokurori": "/proxy/api/imgur/chapter/t2DtDqI/"
+        },
+      "last_updated": "1616911822"
+  },
+     "03": {
+      "title": "Meika-san and Socks",
+      "volume": "1",
+      "groups": {
+        "unknown": "/proxy/api/imgur/chapter/lAMsRcu/"
+        },
+      "last_updated": "1616911822"
+  },
+     "04": {
+      "title": "Meika-san and Studying",
+      "volume": "1",
+      "groups": {
+        "unknown": "/proxy/api/imgur/chapter/yTuxzIB/"
+        },
+      "last_updated": "1616911822"
+  },
+     "05": {
+      "title": "Meika-san and Movies",
+      "volume": "1",
+      "groups": {
+        "Drope": "/proxy/api/imgur/chapter/rg9CHWd/"
+        },
+      "last_updated": "1616911822"
+  },
+       "06": {
+      "title": "Meika-san and School",
+      "volume": "1",
+      "groups": {
+        "Drope": "/proxy/api/imgur/chapter/5i6sPwp/"
+        },
+      "last_updated": "1616911822"
+  },
+     "07": {
+      "title": "Meika-san and Penalty Game",
+      "volume": "1",
+      "groups": {
+        "Drope": "/proxy/api/imgur/chapter/JsJzsvL/"
+        },
+      "last_updated": "1616911822"
+  },
+     "08": {
+      "title": "Meika-san and Intruder",
+      "volume": "1",
+      "groups": {
+        "Drope": "/proxy/api/imgur/chapter/KTf8HSo/"
+        },
+      "last_updated": "1616911822"
+  },
+     "09": {
+      "title": "Meika-san and Oka-san",
+      "volume": "1",
+      "groups": {
+        "Drope": "/proxy/api/imgur/chapter/3wozmCA/"
+        },
+      "last_updated": "1616911822"
+  },
+     "10": {
+      "title": "Meika-san and Reward",
+      "volume": "1",
+      "groups": {
+        "Drope": "/proxy/api/imgur/chapter/VOoR0U8/"
+        },
+      "last_updated": "1616911822"
+  },
+     "11": {
+      "title": "Meika-san and Karaoke",
+      "volume": "1",
+      "groups": {
+        "Drope": "/proxy/api/imgur/chapter/PyubpWL/"
+        },
+      "last_updated": "1616911822"
+  },
+     "11.1": {
+      "title": "Kouta-kun and Meika-san",
+      "volume": "1",
+      "groups": {
+        "Ultralight / Cclaw": "/proxy/api/imgur/chapter/hI2EAcB/"
+        },
+      "last_updated": "1616911822"
+  },
+     "11.2": {
+      "title": "Omake",
+      "volume": "1",
+      "groups": {
+        "Ultralight / Cclaw": "/proxy/api/imgur/chapter/wUeKcnl/"
+        },
+      "last_updated": "1616911822"
+  },
+       "12": {
+      "title": "Meika-san and Cleaning",
+      "volume": "2",
+      "groups": {
+        "Snake / Drope": "/proxy/api/imgur/chapter/vTcELcl/"
+        },
+      "last_updated": "1616911822"
+  },
+         "13": {
+      "title": "Meika-san and Scarf",
+      "volume": "2",
+      "groups": {
+        "Snake / Drope": "/proxy/api/imgur/chapter/sVC03zy/"
+        },
+      "last_updated": "1616911822"
+  },
+         "14": {
+      "title": "Meika-san and Lucy",
+      "volume": "2",
+      "groups": {
+        "Snake / Drope": "/proxy/api/imgur/chapter/efjt12P/"
+        },
+      "last_updated": "1616911822"
+  },
+         "15": {
+      "title": "Meika-san and Sleep Deprivation",
+      "volume": "2",
+      "groups": {
+        "Snake / Drope": "/proxy/api/imgur/chapter/4bhnonH/"
+        },
+      "last_updated": "1616911822"
+  },
+           "16": {
+      "title": "Meika-san and Sports",
+      "volume": "2",
+      "groups": {
+        "Snake / Drope": "/proxy/api/imgur/chapter/qCAeKMS/"
+        },
+      "last_updated": "1616911822"
+  },
+           "17": {
+      "title": "Meika-san and Gargling",
+      "volume": "2",
+      "groups": {
+        "Snake / Drope": "/proxy/api/imgur/chapter/GFnKP2P/"
+        },
+      "last_updated": "1616911822"
+  },
+           "18": {
+      "title": "Meika-san and Love Story",
+      "volume": "2",
+      "groups": {
+        "Snake": "/proxy/api/imgur/chapter/oAf6lNf/"
+        },
+      "last_updated": "1616911822"
+  },
 }
 }
